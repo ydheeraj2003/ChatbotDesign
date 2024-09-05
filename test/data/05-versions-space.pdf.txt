@@ -1,0 +1,85 @@
+
+
+DHEERAJ YERRA 
+Email : ydheeraj2003@gmail.com | +91-8247845084 | GITHUB | LINKEDIN 
+ 
+Education 
+ 
+ 
+Qualification Institution University/Board Score 
+B.Tech Gayatri Vidya Parishad College of Engineering (A) J.N.T.U. Kakinada 8.7 
+Class XII Sri Vamsi Krishna Junior College I.P.E 95% 
+Class X SMT Godavari Devi Saraf High School C.B.S.E 87% 
+ 
+Skills 
+Programming Languages 
+Java 
+Web Development 
+HTML, CSS, JavaScript, Node.js, React.js, Express.js, MongoDB 
+Database Query Languages 
+SQL 
+Others 
+Data Structures, Database Management Systems 
+Projects 
+CHATBOT  
+ Developed an interactive Chabot with gemma2:2b and phi3 open source LLM models. 
+ Created  specific  API  endpoints  using  Express.js  that  the frontend  could  call  to  send  user  queries  to  the 
+respective models. These endpoints were designed to handle POST requests, ensuring secure and efficient data 
+transmission. 
+ Enabled chat history and capability to switch between multiple LLM models. 
+ Built using HTML, CSS, JavaScript for frontend and used Express Js for backend. 
+PORTFOLIO DESIGN 
+ Developed to present my skills, projects, contact information, Github profile, Linkedin profile and resume. 
+ Designed a user friendly and responsive layout with smooth navigation and performance across all devices. 
+ Utilized React Js and Tailwind CSS to develop a visually appealing interface.  
+VENDOR MANAGEMENT SYSTEM 
+ Designed to make dynamic addition and management of firms and products by vendors. 
+ Implemented  a  backend  interface  through  a  vendor  dashboard  where  vendor will  be able  to  manage (add, 
+delete) the firms and products dynamically. 
+ Developed user interface to fetch products and also designed cart page for adding and removing products.  
+ Utilized MERN stack (Mongo DB, Express Js, React Js, Node Js) to deliver a responsive system. 
+E-COMMERCE  
+ Developed to provide a static platform for showcasing products and facilitating online shopping. 
+ Focused  on  creating  a  clear  layout  with  well-defined  sections  for  products  and  categories,  ensuring  easy 
+navigation within a static framework. 
+ Built using HTML, CSS to deliver a functional and visually appealing browsing experience. 
+ 
+Certifications and Courses 
+ 
+ Database Management Systems 
+ Data Structures and Algorithms 
+NPTEL 
+UDEMY
+
+INTERNSHIPS 
+BHARAT (JULY 2023 - AUGUST 2023) 
+ Developed a  personal  portfolio  and  temperature  converter  website  to  demonstrate  web  development  skills  and 
+practical application. 
+ Actively participated in all stages of development, including design, coding and testing ensuring projects met the 
+functional standards. 
+ Designed and developed a user-friendly portfolio to present my skills, and information using HTML and CSS. 
+ Built a functional temperature converter tool that allows users to convert between Celsius to Fahrenheit, kelvin to 
+Fahrenheit and vice versa.  
+ Focused on implementing JavaScript logic including handling user input, performing calculations and updating UI 
+dynamically for accurate conversions and real time updates. 
+CODECLAUSE (APRIL 2024 - MAY 2024) 
+ Developed  a weather  application  to  provide  real-time  weather  details,  including  temperature,  humidity  and 
+conditions for user selected locations. 
+ Designed  and  implemented application’s frontend and integrated a weather API to fetch and display accurate 
+weather data based on user input. 
+ Utilized  API  integration  to  fetch  weather  data  and  applied  front  end  technologies  like  ReactJs to  build  a  user-
+friendly interface. 
+Extra-Curricular Activities 
+ 
+ Participated in Smart India Hackathon. 
+ Participated in various Table Tennis Tournaments. 
+ Got Silver medal in Science Olympiad. 
+ 
+Personal Details 
+Hobbies: 
+Playing Table Tennis, Badminton, Cricket 
+Strengths: 
+ Strong team player 
+ Ability to handle pressure 
+ Time management 
+ 
