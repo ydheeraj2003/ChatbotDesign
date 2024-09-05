@@ -142,8 +142,8 @@ import express from 'express';
 import ollama from 'ollama';
 import fs from 'fs';
 //import path from 'path';
-import { dirname, join } from 'path';
-import { fileURLToPath } from 'url';
+//import { dirname, join } from 'path';
+//import { fileURLToPath } from 'url';
 
 import pdfParse from 'pdf-parse';
 //import faiss from "faiss";
